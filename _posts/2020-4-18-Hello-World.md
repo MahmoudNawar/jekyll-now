@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
-tag: CTF
+tags: [CTF, Reverse-Engineering]
 ---
-to be updated!
+
+to be updated.
