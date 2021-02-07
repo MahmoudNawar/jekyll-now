@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm an experienced computer engineering graduate with a broad experience from academia and software industry. I do enjoy building intelligent agents as well as practicing how to attack and secure computer systems. You can follow my [LinkedIn](https://www.linkedin.com/in/mahmoud-nawar-4a701434/) and [CTF profile](https://cybertalents.com/members/mnawar/profile).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mahmoud.nawar@feng.bu.edu.eg](mailto:mahmoud.nawar@feng.bu.edue.eg)  
+[mahmoud.nawar@owasp.org](mailto:mahmoud.nawar@owasp.org)

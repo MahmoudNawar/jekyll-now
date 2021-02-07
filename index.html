@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="posts">
+  <span>Tags: [
+    {% for tag in site.tags %}
+    <a href="/tag/{{ tag | first }}"><code class="highligher-rouge"><nobr>{{ tag | first }}</nobr></code>&nbsp;</a>
+    {% endfor %}
+  ]</span>
   {% for post in site.posts %}
     <article class="post">
 
