@@ -1,7 +1,11 @@
 ---
 layout: page
+current: research
 title: Research
-permalink: /research/
+navigation: true
+logo: 'assets/images/ghost.png'
+class: page-template
+subclass: 'post page'
 ---
 
 ### RESEARCH INTERESTS
